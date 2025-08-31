@@ -1,2 +1,3 @@
 # the-odin-project-notes
-Personal notes and exercises from The Odin Project
+This repository contains my personal notes and exercises while learning The Odin Project. 
+Covers topics including Foundations, HTML/CSS, JavaScript, and Web Development projects.
